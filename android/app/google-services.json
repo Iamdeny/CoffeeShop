@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738962403028",
+    "project_id": "push-notification-de4b2",
+    "storage_bucket": "push-notification-de4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738962403028:android:349ebe378daa1d47985541",
+        "android_client_info": {
+          "package_name": "com.coffee_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEC4DQQW8nFf_QHpcUedXxmjxWg9dd6h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
